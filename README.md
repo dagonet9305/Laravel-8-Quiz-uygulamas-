@@ -1,0 +1,1 @@
+Laravel 8 ile gerçekleştirilen bu uygulamada quiz klasörünü masaüstünüze alarak ve gerekli sql dosyasını ilgili şekilde ekleyerek, "8000" portundan kullanıcı adı "admin@gmail.com" şifresi "password" olacak şekilde giriş yaparak inceleyebilirsiniz.
